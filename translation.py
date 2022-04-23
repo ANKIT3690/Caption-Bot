@@ -31,35 +31,32 @@ __ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ғᴏʀ ᴀ ᴄʜᴀɴɴᴇ
 
      
       ABOUT_TEXT = """
-📕 **𝐀𝐛𝐨𝐮𝐭 𝐌𝐞**
+📕 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
-__○ ᴍʏ ɴᴀᴍᴇ : [CapXbot](https://t.me/Avishkarpatil)__
-__○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ __
-__○ ғʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ __
-__○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ __
-__○ ᴠᴇʀsɪᴏɴ : 2.0.1__
-__○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
- 
-**[© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ](https://t.me/Avishkarpatil)**
+○ <b> YEAH!YEAH! GET IN CONTACT FROM THE BELOW CHANNEL</b>
+
+○ <i>Cᕼᴀɴɴᴇʟ</i> : <b><a href="https://t.me/defenderofthemultiverse">𝐃𝐄𝐅𝐄𝐍𝐃𝐄𝐑 𝐎𝐅 𝐓𝐇𝐄 𝐌𝐔𝐋𝐓𝐈𝐕𝐄𝐑𝐒𝐄</a></b>    
+
+○ <i>𝓽ꫝꫀ ᥴ𝘳ꫀꪖ𝓽ꪮ𝘳 ꪮᠻ ꪖꪶꪶ</i> : <a href="https://t.me/thewarriorsreal"</a> 
 """
 
       MARKDOWN_TEXT = """
 🔰 <u>𝐀𝐛𝐨𝐮𝐭 𝐌𝐚𝐫𝐤𝐝𝐨𝐰𝐧</u>
 👉 <b>Bold text</b>
-🔸 <code>**Avishkar**</code>
+🔸 <code>**ANKIT**</code>
 
 👉 <b>Italic text</b>
-🔹 <code>__Avishkat__</code> 
+🔹 <code>__ANKIT__</code> 
 
 👉 <b>Code text</b>
-🔸 <code>`Avishkar`</code>   
+🔸 <code>`Ȧ̶̵̗ N̰̜͉͔ͬ̽͢K̦̖̙̱̮̐̌I̶̴̗̗̦͍ͨͭ̉͢͟T̷̫͉̰͕̒́`</code>   
 
 👉 <b>Hyperlink text</b>
-🔹 <code>[hyperlink_text](https://avipatilweb.me)</code> 
+🔹 <code>[hyperlink_text](https://t.me/ANKIT3690)</code> 
 
 〰〰〰〰〰〰〰〰〰〰
 
-<b><a href="https://t.me/Avishkarpatil">© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ</a></b>
+<b><a href="https://t.me/ANKIT3690">ꉓ𝕺ค</a></b>
 """
 
 # Bot status display
@@ -72,16 +69,15 @@ __○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
 
 📐 <b>Current Position :</b> {}
 
-<b><a href="https://t.me/Avishkarpatil">© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ</a></b>
+<b><a href="https://t.me/ANKIT3690"><ꉓ𝕺ค/a></b>
 """
 
 
-      SOURCE_TEXT = """
+      SOURCES TO MEET US = """
 
-○ <b> I Am Available Open Source on Github 
-      Click Below Link And Deploy Me Now </b>
+○ <b> YEAH!YEAH! GET IN CONTACT FROM THE BELOW CHANNEL</b>
 
-○ <i>DEPLOY</i> : <b><a href="https://heroku.com/deploy?template=https://github.com/avipatilpro/Caption-Bot">On Heroku</a></b>    
+○ <i>Cᕼᴀɴɴᴇʟ</i> : <b><a href="https://t.me/defenderofthemultiverse">𝐃𝐄𝐅𝐄𝐍𝐃𝐄𝐑 𝐎𝐅 𝐓𝐇𝐄 𝐌𝐔𝐋𝐓𝐈𝐕𝐄𝐑𝐒𝐄</a></b>    
 
-○ <i>SOURCE</i> : <b><a href="https://github.com/avipatilpro/Caption-Bot">Caption Bot</a></b>  
+○ <i>𝓽ꫝꫀ ᥴ𝘳ꫀꪖ𝓽ꪮ𝘳 ꪮᠻ ꪖꪶꪶ</i> : <a href="https://t.me/thewarriorsreal"</a> 
 """
