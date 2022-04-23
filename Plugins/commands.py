@@ -170,8 +170,13 @@ async def button(bot, cmd: CallbackQuery):
                         InlineKeyboardButton("🖋 Current Caption", callback_data = "status_data")
                        ], 
                        [
-                        InlineKeyboardButton("🍃 Follow Me", url="https://Instagram.com/proavipatil"),
-                        InlineKeyboardButton("📕 About Me", callback_data="about_data")
+                        InlineKeyboardButton(" 𝓽ꫝꫀ ᥴ𝘳ꫀꪖ𝓽ꪮ𝘳 ꪮᠻ ꪖꪶꪶ", url="https://t.me/thewarriorsreal"),
+                        InlinekeyboardButton("Cᕼᴀɴɴᴇʟ", url="https://t.me/defenderofthemultiverse")
+                       ],
+                        InlinekeyboardButton("𝐀𝐍𝐊𝐈𝐓", url="https://t.me/ANKIT3690"),
+                        InlinekeyboardButton("𝐒𝐀𝐔𝐑𝐀𝐕", url="https://t.me/Saurav3BV6SA9LLElon7Musk")
+                       ],
+                        InlineKeyboardButton("Aʙᴏᴜᴛ", callback_data="about_data")
                        ],
                        [
                         InlineKeyboardButton("💡 Help", callback_data="help_data"),
